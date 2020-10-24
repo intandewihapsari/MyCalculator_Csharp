@@ -1,0 +1,10 @@
+E:\Sekolah XI RPL 3\KK3 C\Visual Studio 19\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe.config
+E:\Sekolah XI RPL 3\KK3 C\Visual Studio 19\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe
+E:\Sekolah XI RPL 3\KK3 C\Visual Studio 19\AppCalculator\AppCalculator\bin\Debug\AppCalculator.pdb
+E:\Sekolah XI RPL 3\KK3 C\Visual Studio 19\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csprojAssemblyReference.cache
+E:\Sekolah XI RPL 3\KK3 C\Visual Studio 19\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Form1.resources
+E:\Sekolah XI RPL 3\KK3 C\Visual Studio 19\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Properties.Resources.resources
+E:\Sekolah XI RPL 3\KK3 C\Visual Studio 19\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.GenerateResource.cache
+E:\Sekolah XI RPL 3\KK3 C\Visual Studio 19\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.CoreCompileInputs.cache
+E:\Sekolah XI RPL 3\KK3 C\Visual Studio 19\AppCalculator\AppCalculator\obj\Debug\AppCalculator.exe
+E:\Sekolah XI RPL 3\KK3 C\Visual Studio 19\AppCalculator\AppCalculator\obj\Debug\AppCalculator.pdb
